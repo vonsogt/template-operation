@@ -1,5 +1,5 @@
 {
-    "name": "soufiene-slimi/template-operation",
+    "name": "vonsogt/template-operation",
     "description": "Backpack interface for soufiene-slimi/laravel-form-template",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
     ],
     "require": {
         "backpack/crud": "^4.1.0",
-        "soufiene-slimi/laravel-form-template": "^1.0"
+        "vonsogt/laravel-form-template": "^1.0|dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
